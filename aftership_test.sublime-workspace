@@ -1,0 +1,581 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JT/Documents/node/aftership/server.js",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/resources.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/groups.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/groups.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/resources.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/admin.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets/templates/groups.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets/js/resources.js",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/blocked_url_rules.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/app/main.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/navigation.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/tests/hashing_resources_test.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/tcd.sublime-project",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/global.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets_src/duplicates.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/assets/templates/resources.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/asset/asset.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/admin.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/resources.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/resources.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/navigation.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/home.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/resources.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/global.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cassetd.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/assets/assets.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cresourced.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/resource/resource.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/resource.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/scripts/resources/write_hash.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/scripts/resources/list_files.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/web/queue.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/differences.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/differences.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/docker-entrypoint-initdb.d/03fdw.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/docker-entrypoint-initdb.d/02tina.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/docker-entrypoint-initdb.d/01relm.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/home.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/differences.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/url.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/web/web.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/admin.scss",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/item.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/web/blocked.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cwebd.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/crawler/crawler.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cappd.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cagentd.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/caffiliated.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cadmind.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/groups.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/blocked_url_rules.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets_src/fields.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/blocked_url_rules.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/fields.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/groups.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/blocked_url_rules.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/groups.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/fields.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/assets/templates/home.template",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/domains.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/client_tools/admin/items.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/types_test.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/group.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/field.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/data/affiliate.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/compose/docker-compose.yml",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/affiliate/affiliate.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/compose/docker-compose-prd.yaml",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cpg.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/agent/agent.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/agent/restore.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/agent/upload.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/crsyncd.latest.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/crsyncd.base.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/cagentd.base.Dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/app/browse.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/app/home.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/app/navigation.go",
+		"/Users/JT/.docker/machine/machines/theconsumerdatabase-clientdaemons/config.json",
+		"/Users/JT/.docker/machine/machines/theconsumerdatabase-app/config.json",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/rsync/latest/crsyncd.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/web/latest/cwebd.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/upload/latest/cuploadd.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/restore/latest/crestored.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/resource/latest/cresourced.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/app/latest/cappd.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/admin/latest/cadmind.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/affiliate/latest/caffiliated.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/docker-compose-prd.yaml",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/pg/latest/cpg.dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/utils/cutil.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/admin/main.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/docker-compose.yml",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/cli/cutil.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/pg/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/cli/main.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/admin/tcdadmin.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/admin/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/affiliate/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/crawler/affiliate/affiliate.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/crawler/amazon/amazon.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/app/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/resource/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/restore/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/rsync/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/upload/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/web/latest/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/restore/main.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/rsync/base/dockerfile",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/crawler/resource/resource.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/main.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/browse.go",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/spec_filter_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/browse_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/feature_filter_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/global_functions.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/navigation_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/filter_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/pagination_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/03fdw.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/02tina.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/01relm.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/tools/dump/test_dbs.sql",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/style.scss",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/browse_item_view.jsx",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets/js/browse_item_view.js",
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/types.go"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"HideResourcesView",
+			"contentElements",
+			"selectedRowLastId",
+			"selectedId",
+			".details",
+			"ResourceThumbnailView",
+			"thumbnailSuggestionStyle",
+			"details:",
+			"details",
+			"/resources/id",
+			"B.",
+			"A.",
+			"HashResources",
+			"onKeyPress",
+			"r.",
+			"Upsert",
+			"to_hide.",
+			"offset",
+			"Unverified",
+			"resourceIDRe",
+			"log.Printf",
+			"log.Println",
+			"\"`",
+			"\\n\"`",
+			"returned in",
+			"fmt.Println",
+			"/json",
+			"/resources/page/json",
+			"page/next",
+			"\"/resource",
+			"\"/resources",
+			"/resource",
+			"RESOURCE_DIR",
+			"regexp",
+			"src=",
+			"/thumbs",
+			"resourceThumbnailPath",
+			"log.Fatal(err)",
+			"panic(err)",
+			"filepath.",
+			"filepath",
+			"GetUncrawledResourceURLs",
+			"AllResources",
+			"hosts",
+			"panic",
+			"pollInterval",
+			"resourceDir",
+			"dbString",
+			"uncrawledResourceURLs",
+			"resources",
+			"resourceThumbnailLength",
+			"ImagesResponse",
+			"Upsert",
+			"checkIntervalStr",
+			"APP_CHECK_INTERVAL",
+			"transparent",
+			"margin",
+			"resourceThumbnailMargin",
+			"200",
+			"ResourceView",
+			"where",
+			"selenium.WebDriver",
+			"selenium",
+			"data.",
+			"OffsetDate",
+			"Verfi",
+			"Status.In",
+			"Fields",
+			"pq",
+			"sql",
+			"port",
+			"dbString",
+			"imageDir",
+			"registerHandlers",
+			"fmt.Println",
+			"features",
+			"POLL_QUEUE_SAME_HOST_INTERVAL",
+			"POLL_QUEUE_INTERVAL",
+			"pollBlockURLsInterval",
+			"pollQueueSameHostInterval",
+			"pollQueueInterval",
+			"queueSize",
+			"seleniumWindowHeight",
+			"seleniumWindowWidth",
+			"seleniumTimeout",
+			"seleniumBrowser",
+			"seleniumBinary",
+			"seleniumHub",
+			"dbString",
+			"ProcessQueue",
+			"SaveErrors",
+			"ProcessQueue",
+			"FeedQueue",
+			"time.Sleep(",
+			"FillQueue",
+			"queuedURLs",
+			"FillQueue",
+			"NewWebDriver",
+			"enqueue",
+			"dbConnString",
+			"FillQueue",
+			"queueSameHostInterval",
+			"queueInterval",
+			"queueSize",
+			"blockedURLsPollInterval",
+			"seleniumPageLoadTimeout",
+			"seleniumPageLoadTimeoutInt",
+			"seleniumTimeout",
+			"seleniumBinaryPath",
+			"seleniumHubAddr",
+			"seleniumBrowserName",
+			"FillQueue",
+			"registerCrawlers",
+			"SyncResources",
+			"DumpHasContent",
+			"MoveFailedDump",
+			"DumpHasContent",
+			"MoveFailedDump",
+			"Failed",
+			"SyncURLs",
+			"RestoreSource",
+			"args = append(args",
+			".Conn.",
+			"NotAdded",
+			"RestoreToSourceDatabase",
+			"ClearSourceDatabase",
+			"Restore",
+			"ClearSourceDatabase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"renderItems",
+			"_selectedRowLastId",
+			"_selectedId",
+			"b.",
+			"a.",
+			"v.",
+			"resourcesIDRe",
+			"`",
+			"\"`",
+			"log.Println",
+			"panic(err)",
+			"log.Fatal(err)",
+			"path.",
+			"NewResourceURLs",
+			"log.Fatal",
+			"POLL_INTERVAL",
+			"RESOURCE_DIR",
+			"DB_STRING",
+			"GetUncrawledResourceURLs",
+			"differenceThumbnailLength",
+			"pollInterval",
+			"APP_POLL_INTERVAL",
+			"white",
+			"ResourceThumbnailView",
+			"WebDriver",
+			"StatusIn",
+			"BlockedURLRules",
+			"Groups",
+			"PORT",
+			"DB_STRING",
+			"RESOURCE_DIR",
+			"RegisterHandlers",
+			"CRAWL_SAME_HOST_INTERVAL",
+			"CRAWL_INTERVAL",
+			"POLL_BLOCKED_URLS_INTERVAL",
+			"POLL_QUEUE_SAME_HOST_INTERVAL",
+			"POLL_QUEUE_INTERVAL",
+			"QUEUE_SIZE",
+			"SELENIUM_HEIGHT",
+			"SELENIUM_WIDTH",
+			"SELENIUM_TIMEOUT",
+			"SELENIUM_BROWSER",
+			"SELENIUM_BINARY",
+			"SELENIUM_HUB",
+			"DB_STRING",
+			"dbString",
+			"pollQueueSameHostInterval",
+			"pollQueueInterval",
+			"pollBlockURLsInterval",
+			"seleniumTimeout",
+			"seleniumTimeoutInt",
+			"seleniumBinary",
+			"seleniumHub",
+			"seleniumBrowser",
+			"RegisterCrawlers",
+			"restoreArgs = append(restoreArgs",
+			".",
+			"MoveFailedDump",
+			"RestoreSource",
+			"ClearSource",
+			"RestoreToSourceDatabase",
+			"ClearSourceDatabase",
+			"DumpHasContent",
+			"assetDir",
+			"InitDBConnection",
+			"dbString",
+			"if mode == \"0\"",
+			"assetDir",
+			"resourceDir",
+			"assetsDir",
+			"resourceDir",
+			"dbString",
+			"checkInterval",
+			"dockerBuild",
+			"args",
+			"args[",
+			"flag.",
+			"NewBrowseRequest",
+			"r.URL.Query",
+			"SetAffiliates",
+			"SetSpecs",
+			"SetFeatures",
+			"SetResources",
+			"SetItemResources",
+			"SetPageItems()",
+			"SetPageItems",
+			"SetFiltersCounts",
+			"SetItemIDsBySpecs",
+			"SetItemIDsByFeatures",
+			"SetItemIDsByGroup",
+			"BrowseResponse",
+			"BrowseRequest",
+			"NewBrowseDataRequest",
+			"resp.Request",
+			"boolean",
+			"boolean,",
+			"import_source_db",
+			"import_destination_db",
+			"import_source_db",
+			"OK",
+			"synchronizing",
+			"mash",
+			"dstDB.Conn.QueryRow",
+			"defaultPoll",
+			"create foreign table",
+			"ConnStr",
+			"dstConnStr",
+			"srcConnStr",
+			"dstConn",
+			"ENV",
+			"os.Getenv",
+			"mode",
+			"assetsPath",
+			"resourcesPath",
+			"connectionString",
+			"/",
+			"af.",
+			"af,",
+			"af.",
+			".Set",
+			"rightThumbStyle",
+			"leftThumbStyle",
+			"SpecFilterView",
+			"",
+			"home",
+			"Home",
+			"NormalisationFactor",
+			"ConversionFactor{"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 94.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 171.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aftership_test.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/src/theconsumerdatabase.com/tcd.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
