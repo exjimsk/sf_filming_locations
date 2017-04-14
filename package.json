@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha --recursive",
-    "start": "node server.js"
+    "start": "npm start"
   },
   "author": "jtang",
   "license": "ISC",
