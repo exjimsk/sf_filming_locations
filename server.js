@@ -1,7 +1,5 @@
 const fs 		= require("fs")
 const express 	= require("express")
-const sync 		= require("sync")
-const http 		= require("http")
 
 var app 			= {
 	_http: 						express(),
