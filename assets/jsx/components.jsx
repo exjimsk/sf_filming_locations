@@ -117,7 +117,6 @@ class AppView extends React.Component {
 	
 	onChangeInput(e) {
 		var v = e.target.value
-		// var locations = this.state.locations
 
 		for (var title in this.titles) {
 			var filtered = title.indexOf(v) == -1
@@ -129,8 +128,5 @@ class AppView extends React.Component {
 		}
 		
 		this.forceUpdate()
-		// this.setState({
-		// 	locations: locations
-		// })
 	}
 }

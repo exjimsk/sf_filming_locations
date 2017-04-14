@@ -1,0 +1,17 @@
+This is San Francisco Filming Locations Map coding test.  
+
+1. The node server is a simple implementation of an HTTP server using express. 
+
+It listens on 3 endpoints:
+- "/": 						sends back the index html  
+- "/locations.json": 	sends a json object of all san francisco filming locations
+- "/components.js": 		sends a js file with the react components and front end logic
+
+
+2. The frontend is composed of a single AppView component, which a map and a list view with a text input.  The state of that component is the locations object returned from the server.  At this point the only state interaction is thru the text input, so that's where most of the logic pertaining to user interaction resides.  To improve the performance of input change to rendering performance, a dictionary of movie title keys and location id's is created on componentDidMount.
+
+
+3. The application uses the Google Maps API to display the map of San Francisco and place markers on each film location.  In order to place these markers quickly on the map, their geolocations are pre-cached on the server and sent along from the locations endpoint.  
+
+
+That's pretty much it.
