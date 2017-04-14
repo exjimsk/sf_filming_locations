@@ -6,7 +6,7 @@ const http 		= require("http")
 var app 			= {
 	_http: 						express(),
 	_initialized: 				0,
-	_port: 						80,
+	_port: 						8080,
 	_started: 					-1,
 	locations: 					{},
 	geoLocationFromGoogle: 	() => {},
