@@ -1,7 +1,11 @@
 {
   "name": "sf_filming_locations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "aftership test",
+  "engines": {
+    "node": "7.8.x",
+    "npm": "4.2.x"
+  },
   "main": "server.js",
   "scripts": {
     "test": "mocha --recursive",
