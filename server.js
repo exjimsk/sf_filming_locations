@@ -41,6 +41,7 @@ module.exports = {
 	app: 	app
 }
 
+console.log("app initializing...")
 
 app.init()
 
