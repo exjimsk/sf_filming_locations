@@ -9,7 +9,7 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha --recursive",
-    "start": "npm start"
+    "start": "node server.js"
   },
   "author": "jtang",
   "license": "ISC",
