@@ -7,7 +7,6 @@ var app 			= {
 	_port: 						process.env.PORT,
 	_started: 					-1,
 	locations: 					{},
-	geoLocationFromGoogle: 	() => {},
 	init: 						() => {},
 	start: 						() => {},
 }

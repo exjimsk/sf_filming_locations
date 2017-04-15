@@ -7,24 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "server.js",
-			"settings":
-			{
-				"buffer_size": 234,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test.js",
-			"settings":
-			{
-				"buffer_size": 100,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -79,11 +61,30 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/JT/Documents/node/aftership"
+		"/Users/JT/Documents/node/aftership",
+		"/Users/JT/Documents/node/aftership/assets",
+		"/Users/JT/Documents/node/aftership/assets/html",
+		"/Users/JT/Documents/node/aftership/assets/js",
+		"/Users/JT/Documents/node/aftership/go",
+		"/Users/JT/Documents/node/aftership/node_modules/express",
+		"/Users/JT/Documents/node/aftership/test"
 	],
 	"file_history":
 	[
+		"/Users/JT/Documents/node/aftership/assets/html/index.html",
+		"/Users/JT/Documents/node/aftership/server.js",
+		"/Users/JT/Documents/node/aftership/README",
 		"/Users/JT/Documents/node/aftership/package.json",
+		"/Users/JT/Documents/node/aftership/assets/jsx/components.jsx",
+		"/Users/JT/Documents/node/aftership/.gitignore",
+		"/Users/JT/Documents/node/aftership/go/get_geolocs.go",
+		"/Users/JT/Documents/node/aftership/assets/filmlocs.json",
+		"/Users/JT/Documents/node/aftership/go/geolocations.json",
+		"/Users/JT/Documents/node/aftership/assets/filmlocs_cache.json",
+		"/Users/JT/Documents/node/aftership/test/server_test.js",
+		"/Users/JT/Documents/node/aftership/index.html",
+		"/Users/JT/Documents/node/aftership/test.js",
+		"/Users/JT/Documents/node/aftership/aftership_test.sublime-project",
 		"/Users/JT/Documents/node/aftership/tests.js",
 		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/resources.go",
 		"/Users/JT/Documents/src/theconsumerdatabase.com/client_daemons/admin/groups.go",
@@ -197,20 +198,7 @@
 		"/Users/JT/Documents/src/theconsumerdatabase.com/crawler/resource/resource.go",
 		"/Users/JT/Documents/src/theconsumerdatabase.com/main/main.go",
 		"/Users/JT/Documents/src/theconsumerdatabase.com/main/browse.go",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/spec_filter_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/browse_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/feature_filter_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/global_functions.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/navigation_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/filter_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/pagination_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/03fdw.sql",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/02tina.sql",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/docker/db/latest/docker-entrypoint-initdb.d/01relm.sql",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/tools/dump/test_dbs.sql",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/style.scss",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/browse_item_view.jsx",
-		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets/js/browse_item_view.js"
+		"/Users/JT/Documents/src/theconsumerdatabase.com/main/assets_src/spec_filter_view.jsx"
 	],
 	"find":
 	{
@@ -228,6 +216,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"toLowercase",
 			"app.",
 			"HideResourcesView",
 			"contentElements",
@@ -354,8 +343,7 @@
 			".Conn.",
 			"NotAdded",
 			"RestoreToSourceDatabase",
-			"ClearSourceDatabase",
-			"Restore"
+			"ClearSourceDatabase"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -363,6 +351,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"toLowerCase",
 			"http.",
 			"renderItems",
 			"_selectedRowLastId",
@@ -489,8 +478,7 @@
 			"SpecFilterView",
 			"",
 			"home",
-			"Home",
-			"NormalisationFactor"
+			"Home"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -501,65 +489,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "server.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								234,
-								234
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "test.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 100,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],
