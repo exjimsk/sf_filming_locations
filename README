@@ -3,15 +3,16 @@ This is San Francisco Filming Locations Map coding test.
 1. The node server is a simple implementation of an HTTP server using express. 
 
 It listens on 3 endpoints:
-- "/": 						sends back the index html  
-- "/locations.json": 	sends a json object of all san francisco filming locations
-- "/components.js": 		sends a js file with the react components and front end logic
+- "/": 				sends back assets/html/index.html  
+- "/locations.json": 	sends a json object of all san francisco filming locations loaded at init from assets/geolocations.json
+- "/components.js": 	sends assets/js/components.js which contains the react components and front end logic
 
 
-2. The frontend is composed of a single AppView component, which a map and a list view with a text input.  The state of that component is the locations object returned from the server.  At this point the only state interaction is thru the text input, so that's where most of the logic pertaining to user interaction resides.  To improve the performance of input change to rendering performance, a dictionary of movie title keys and location id's is created on componentDidMount.
+2. The frontend is composed of a single AppView React component, with a map and a list view and a text input.  The state of that component is the locations object returned from the server.  State interaction implementation at this time is thru the text input only, so that's where most of the logic pertaining to user interaction resides.  To improve performance of rendering list and processing map markers, a simple dictionary of movie title keys and location id's is created on componentDidMount.
 
 
-3. The application uses the Google Maps API to display the map of San Francisco and place markers on each film location.  In order to place these markers quickly on the map, their geolocations are pre-cached on the server and sent along from the locations endpoint.  
+3. The application uses the Google Maps API to display the map of San Francisco and places markers on each film location.  In order to place these markers quickly on the map, their geolocations are pre-cached on the server and sent along from the locations endpoint.  
 
 
-That's pretty much it.
+4. A few areas of improvement in terms of user interfaction would be showing marker information on the map on hover, presenting additional movie filiming location information (director, actors, etc), adding indexing to addresses for input filtering, implementing click event on list items.  All of these would be of great benefit to the UX.  On a technical perspective, the application could poll for updates to the database and request geolocations on a set schedule.  The filiming locations data source file would be placed on a persistent volume to allow application statelessness, which would make any type of scaling and basic failover trivial as a docker environment.
+
